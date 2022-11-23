@@ -1,0 +1,14 @@
+!! Colors
+URxvt.background: [70]#000000
+URxvt.foreground: #00cc00
+URxvt.cursorColor: white
+
+
+!! Fonts
+URxvt.font: xft:monospace:size=10
+
+
+!! Misc
+URxvt.scrollBar: false
+
+
